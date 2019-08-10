@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="true">اطلاع لاگ</string>
+    <string name="notification_access_label">@string/app_name</string>
+
+    <!-- Activities -->
+    <string name="activity_browse">براؤز کریں۔</string>
+    <string name="activity_details">تفصیلات</string>
+
+    <!-- Menu -->
+    <string name="menu_about">کے بارے میں</string>
+    <string name="menu_refresh">ریفریش</string>
+    <string name="menu_delete">حذف کریں۔</string>
+    <string name="menu_export">برآمد کریں۔</string>
+
+    <!-- Settings categories -->
+    <string name="category_settings">ترتیبات۔</string>
+    <string name="category_actions">عمل</string>
+
+    <!-- Status -->
+    <string name="settings_status">حالت</string>
+    <string name="settings_notification_access_unknown">نامعلوم۔</string>
+    <string name="settings_notification_access_enabled">قابل بنایا گیا۔</string>
+    <string name="settings_notification_access_disabled">غیر فعال - اہل کرنے کے لئے یہاں کلک کریں۔</string>
+
+    <!-- Browse -->
+    <string name="settings_browse">اطلاعات کو براؤز کریں۔</string>
+    <string name="settings_browse_summary_singular">٪ 1 $ d اطلاع۔</string>
+    <string name="settings_browse_summary_plural">%1$d notifications</string>
+
+    <!-- Log text -->
+    <string name="settings_text">لاگ ٹیکسٹ۔</string>
+    <string name="settings_text_summary">اطلاع کا اصل مواد لاگ ان کریں۔ اس سے لاگ فائل کا سائز بڑھ جاتا ہے لیکن آپ کو گذشتہ پیغامات پڑھنے کی اجازت ملتی ہے۔</string>
+
+    <!-- Log ongoing -->
+    <string name="settings_ongoing">جاری ہے۔</string>
+    <string name="settings_ongoing_summary">جاری اطلاعات ، جیسے ڈاؤن لوڈز پر لاگ ان کریں۔ یہ اضافی لاگ انٹریوں کی ایک بڑی تعداد پیدا کرتا ہے۔</string>
+
+    <!-- Export -->
+    <string name="snackbar_export">برآمد ہو رہا ہے… براہ کرم انتظار کریں…</string>
+
+    <!-- Delete -->
+    <string name="dialog_delete_header">حذف ہونے کی تصدیق کریں۔</string>
+    <string name="dialog_delete_text">کیا آپ واقعی لاگ فائل کو حذف کرنا چاہتے ہیں؟ اسے کالعدم نہیں کیا جاسکتا۔</string>
+    <string name="dialog_delete_yes">حذف کریں۔</string>
+    <string name="dialog_delete_no">منسوخ کریں</string>
+
+    <!-- About -->
+    <string name="settings_about">کے بارے میں</string>
+    <string name="settings_about_summary">اطلاع گٹ ہب پر لاگ ان کریں۔ ایم آئی ٹی لائسنس کے تحت لائسنس یافتہ۔</string>
+
+    <!-- Version -->
+    <string name="settings_version">ورژن۔</string>
+
+    <!-- Details -->
+    <string name="details_error">اس اندراج کی تفصیلات لوڈ کرنے سے قاصر ہے۔</string>
+    <string name="empty_log_file">ابھی تک کوئی اطلاعات لاگ ان نہیں ہیں!</string>
+    <string name="open_notification_settings">اطلاع کی ترتیبات۔</string>
+
+    <!-- Delete Notification -->
+    <string name="delete_dialog_title">نوٹیفکیشن کو حذف کریں۔</string>
+    <string name="delete_dialog_text">کیا آپ واقعی اس اطلاع کو حذف کرنا چاہتے ہیں؟ اسے کالعدم نہیں کیا جاسکتا۔</string>
+    <string name="delete_dialog_yes">حذف کریں۔</string>
+    <string name="delete_dialog_no">منسوخ کریں</string>
+    <string name="start" >شروع کریں</string>
+    <string name="choose_Language" >زبان کا انتخاب کریں۔</string>
+</resources>
